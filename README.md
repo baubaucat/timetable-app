@@ -13,6 +13,7 @@ React Nativeを使用してゼロから開発した時間割管理アプリ。
 - **Storage**: AsyncStorage
 - **UI**: Stylesheet, @expo/vector-icons
 - **tools**: VScode, GitHub, Gemini
+
 ##🚀工夫点
 ###固定データから動的な状態管理
 ###データの永続化
